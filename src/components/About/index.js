@@ -33,18 +33,30 @@ const About = () => {
             />
           </h1>
           <p>
-            I'm a very ambitious front-end developer looking for a role in an
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+            I'm a creative and responsible professional with excellent problem
+            solving skills, looking for a position as a Software Engineer.
           </p>
           <p align="LEFT">
-            I'm quiet confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+            I graduated from Curtin University, Australia(SLIIT International).
+            as a Software Engineer after having extensive education and
+            experience in software design and development.
           </p>
           <p>
-            If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
+            Fluent in English with great communication skills and friendly
+            personality, I am a fast learner with strong time management skills
+            who is eager to learn new things and contribute to the team.Team
+            player and also have the ability to work as an individual.
+          </p>
+          <p>
+            I am familiar with C, C++, C#, Java and Python programming languages
+            and have the experience in using OOP concepts, data structures &
+            algorithms
+          </p>
+          <p>
+            I am interested in web development as a full stack developer using
+            React JS, Node JS and MongoDB and Mobile application development
+            using Android studio, Flutter & Firebase, As a hobby i like to
+            develop little games using Unity engine.
           </p>
         </div>
 
