@@ -2,14 +2,12 @@
   z-index: 0;
   width: 500px;
   height: 509px;
-  opacity: 0;
   position: absolute;
   top: 0;
   right: 15%;
   bottom: 10%;
   left: auto;
   margin: auto;
-  opacity: 0;
 
   svg {
     width: 100%;
@@ -26,7 +24,7 @@
     left: 0;
     margin: auto;
     width: 100%;
-    opacity: 0;
+
     //transform: rotateZ(30deg) !important;
     z-index: 1;
   }

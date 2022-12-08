@@ -80,16 +80,19 @@
   }
 }
 
-
-
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1000px) {
   .tags,
   .home-page h1:before,
   .home-page h1:after {
     display: none;
   }
 
+  .home-page h1 {
+    font-size: 40px;
+  }
+
   .home-page .text-zone {
+    margin-top: 5%;
     position: initial;
     width: 100%;
     transform: none;
@@ -100,15 +103,15 @@
   .home-page .flat-button {
     float: none;
     display: block;
-    margin: 20px auto 0 auto;
-    width: 124px;
+    margin: 20px 0 20px 25%;
+    width: 154px;
   }
 
   .logo-container {
     position: relative;
-    width: 100px;
+    width: 300px;
     height: auto;
-    top: 50px;
+    top: 80px;
     right: 0;
     box-sizing: border-box;
     margin: auto;
